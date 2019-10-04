@@ -1,0 +1,27 @@
+footer {
+  height: 100px;
+  background-color: $dark;
+  color: $light;
+  font-size: 12px;
+  line-height: 15px;
+
+  strong {
+    display: block;
+  }
+
+  a {
+    color: $light;
+    text-decoration: none;
+  }
+
+  ul {
+    display: grid;
+    grid-template-columns: 0.8fr 1.2fr 1fr; // 1ft 1ft 1ft 2ft
+    grid-column-gap: 20px;
+    font-weight: $font-light;
+    li {
+      // display: inline-block;
+      padding-top: 35px;
+    }
+  }
+}

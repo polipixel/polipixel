@@ -1,0 +1,203 @@
+header {
+  background: $dark-transparent;
+  height: 100px;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+
+  @include breakpoint(max-width $iPhone-portrait) {
+    height: 150px;
+    background-color: $dark !important;
+  }
+  
+  h1 {
+    text-indent: -9999px;
+    display: inline-block;
+    height: 100px;
+    width: 188px;
+    background: url('../images/polipixel-logo.svg') no-repeat center center;
+
+    @include breakpoint(max-width $iPhone-portrait) {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  ul {
+    &.social {
+      float: right;
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        text-align: center;
+        margin: 0 auto;
+        float: none;
+      }
+
+      li {
+        display: inline-block;
+        a {
+          text-indent: -9999px;
+          display: inline-block;
+          width: 20px;
+          height: 100px;
+          padding-left: 10px;
+          background: no-repeat center center;
+
+          @include breakpoint(max-width $iPhone-portrait) {
+            height: 20px;
+          }
+
+          &.facebook {
+            background-image: url('../images/icon-facebook.svg');
+          }
+          &.twitter {
+            background-image: url('../images/icon-twitter.svg');
+          }
+          &.instagram {
+            background-image: url('../images/icon-instagram.svg');
+          }
+          &.youtube {
+            background-image: url('../images/icon-youtube.svg');
+          }
+          &.linkedin {
+            background-image: url('../images/icon-linkedin.svg');
+          }
+          &.github {
+            background-image: url('../images/icon-github.svg');
+          }
+        }
+      }
+    }
+  }
+}
+
+.hero {
+  height: 659px;
+  background-color: $dark;
+  position: relative;
+  z-index: 9;
+
+  img {
+    width: 472px;
+    height: 311px;
+    position: absolute;
+    left: 50px;
+    bottom: 100px;
+
+    @include breakpoint(max-width $iPhone-portrait) {
+      position: relative;
+      width: 300px;
+      top: 200px;
+      left: 10px;
+    }
+  }
+  
+  .copy {
+    width: 334px;
+    height: 60px;
+    position: absolute;
+    right: 40px;
+    bottom: 265px;
+    color: $gray;
+    font-size: 28px;
+    line-height: 30px;
+    text-align: right;
+
+    @include breakpoint(max-width $iPad-portrait) {
+      right: 130px;
+      bottom: 445px;
+    }
+
+    @include breakpoint(max-width $iPhone-portrait) {
+      right: 10px;
+      bottom: 80px;
+    }
+  }
+
+  .box {
+    background-color: $light;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 12px;
+    height: 12px;
+
+    &.red {
+      background-color: $brand-red;
+      top: 205px;
+      left: 770px;
+      transform: rotate(49deg);
+      width: 40px;
+      height: 40px;
+
+      @include breakpoint(max-width $iPad-portrait) {
+        left: 20px;
+      }
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: 240px;
+      }
+    }
+    &.orange {
+      background-color: $brand-orange;
+      top: 160px;
+      left: 140px;
+      transform: rotate(-62deg);
+      width: 40px;
+      height: 40px;
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: 80px;
+      }
+    }
+    &.yellow {
+      background-color: $brand-yellow;
+      top: 440px;
+      left: 710px;
+      transform: rotate(-18deg);
+      width: 28px;
+      height: 28px;
+
+      @include breakpoint(max-width $iPad-portrait) {
+        left: 600px;
+      }
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: -20px;
+      }
+    }
+    &.green {
+      background-color: $brand-green;
+      top: 375px;
+      left: 330px;
+      transform: rotate(-18deg);
+      width: 18px;
+      height: 18px;
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: 310px;
+      }
+    }
+    &.blue {
+      background-color: $brand-blue;
+      top: 260px;
+      left: 530px;
+      transform: rotate(29deg);
+      width: 23px;
+      height: 23px;
+      
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: 200px;
+      }
+    }
+    &.white {
+      top: 180px;
+      left: 670px;
+      transform: rotate(-19deg);
+
+      @include breakpoint(max-width $iPhone-portrait) {
+        left: 20px;
+      }
+    }
+  }
+}

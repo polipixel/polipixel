@@ -1,0 +1,108 @@
+body {
+  font-family: $encode;
+  font-size: 20px;
+  font-weight: $font-regular;
+  background-color: $dark;
+  color: $dark;
+}
+
+main {
+  background-color: $light;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  
+  @include breakpoint(max-width $iPad-portrait) {
+    width: 700px;
+  }
+
+  @include breakpoint(max-width $iPhone-portrait) {
+    width: 320px;
+  }
+}
+
+.separator {
+  border-bottom: 1px solid $brand-orange;
+}
+
+.content {
+  padding: 90px 0;
+  text-align: center;
+  background-color: $light;
+}
+
+a {
+  color: $dark-gray;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &.button {
+    text-decoration: none;
+    display: inline-block;
+    background-color: $dark;
+    color: $light;
+    font-size: 16px;
+    font-weight: $font-light;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 50px;
+    width: 300px;
+    height: 50px;
+    margin-top: 60px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    transition: all .5s;
+    transition-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+
+    &:hover {
+      transform: scale(1.08);
+      box-shadow: 0px 8px 20px rgba(100, 100, 100, 0.6);
+    }
+  }
+}
+
+strong {
+  font-weight: $font-semibold;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+p {
+  text-align: center;
+  font-weight: $font-light;
+  max-width: 600px;
+  margin: 0 auto;
+  color: $dark-gray;
+  line-height: 25px;
+}
+
+ul {
+  &.tech {
+    display: grid;
+    grid-template-columns: repeat(8, 100px);
+    grid-column-gap: 20px;
+
+    @include breakpoint(max-width $iPad-portrait) {
+      grid-template-columns: repeat(4, 150px);
+    }
+
+    @include breakpoint(max-width $iPhone-portrait) {
+      grid-template-columns: repeat(2, 160px);
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 60px;
+    }
+  }
+}
