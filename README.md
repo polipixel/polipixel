@@ -21,3 +21,4 @@
 * [Breakpoint](http://breakpoint-sass.com)
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [jQuery](https://jquery.com)
+* [skrollr](http://prinzhorn.github.io/skrollr/)
