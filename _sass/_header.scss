@@ -1,3 +1,10 @@
+// fix mobile design for skrollr
+html.skrollr-mobile {
+  header {
+    background-color: $dark !important;
+  }
+}
+
 header {
   background: $dark-transparent;
   height: 100px;
