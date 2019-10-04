@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "La transformación digital en la empresa"
-date: 2019-10-04 13:21:44 +0200
-image: transformacion-digital.jpg
+date: 2019-07-13 12:25:00 +0200
+image: /assets/posts/transformacion-digital.jpg
 ---
 
 Una transformación digital no sólo requiere de nuevas herramientas, sino de establecer una cultura empresarial acorde a dichos cambios, a todos los niveles. Se trata de un proceso laborioso, pero que una vez implementado en el día a día de su empresa, le permitirá reducir errores, agilizar procesos e incrementar beneficios. Pero siempre surgen dudas como:

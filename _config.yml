@@ -16,6 +16,9 @@ github_username: polipixel
 markdown: kramdown
 permalink: /blog/:title:output_ext
 
+feed:
+  path: atom.xml
+
 # Build settings
 plugins:
   - jekyll-feed
