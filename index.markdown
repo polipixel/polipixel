@@ -5,7 +5,7 @@ title: Polipixel
 
 <main>
 
-  <div class="container content separator">
+  <div class="container content">
     <h2>Creamos productos digitales</h2>
     <p>
       Somos un grupo de profesionales dedicados al desarrollo de software y diseño de
@@ -14,7 +14,7 @@ title: Polipixel
     <a href="mailto:{{ site.email }}" class="button">Trabajemos juntos</a>
   </div>
 
-  <div class="container content">
+  <div class="container content separator">
     <p>Algunas tecnologías que utilizamos en nuestros proyectos:</p>
     <ul class="tech">
       <li><img src="{{ site.baseurl }}/assets/images/tech-laravel.svg" alt="Laravel"></li>
