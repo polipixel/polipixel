@@ -1,24 +1,15 @@
 # Polipixel
 
-![Polipixel](https://polipixel.com/images/facebook-share.png)
-
-### Queremos construir algo increíble contigo
+![Polipixel](https://polipixel.com/assets/images/facebook-share.png)
 
 ## Some dev steps
 
-1. Install **Nodejs**: [https://nodejs.org/en/](https://nodejs.org/en/)
-2. Install **Gulp**: [https://gulpjs.com](https://gulpjs.com)
-3. Install **npm dependencies** for the project: `$ npm install`
-4. Run **Gulp**: `$ gulp watch`
-5. Deploy the **dist** folder in your server.
+We now use [Jekyll](https://jekyllrb.com) for our website and our blog posts! 🎉
 
-## Used dependencies
+The posts are in the `_posts` folder. ✏️ 
 
-* [Sass](https://sass-lang.com)
-* [Gulp](https://gulpjs.com)
-* [Bootstrap](https://getbootstrap.com)
-* [Bourbon](https://www.bourbon.io)
-* [Breakpoint](http://breakpoint-sass.com)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [jQuery](https://jquery.com)
-* [skrollr](http://prinzhorn.github.io/skrollr/)
+To compile locally, you have to run `jekyll serve --watch`, and visit [http://127.0.0.1:4000/](http://127.0.0.1:4000/). 👨‍💻
+
+Then, to have the **production version**, you have to run `jekyll build`, and upload only the content of the `_site` folder. 🚀
+
+**Note:** You need to have [Ruby](https://www.ruby-lang.org/) installed to compile the project's code.

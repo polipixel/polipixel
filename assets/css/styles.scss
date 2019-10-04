@@ -1,13 +1,14 @@
+---
+---
+
 @import 'reset';
 @import 'variables';
 
 // external
-@import 'bourbon';
-@import '../bootstrap/scss/bootstrap.scss';
 @import 'breakpoint';
-$use-fade: true;
-@import 'animate';
 
 @import 'general';
 @import 'header';
 @import 'footer';
+
+@import 'post';
