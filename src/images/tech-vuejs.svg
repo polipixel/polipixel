@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="56px" viewBox="0 0 65 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>tech-vuejs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polipixel-web" transform="translate(-1135.000000, -1301.000000)">
+            <g id="technologies" transform="translate(240.000000, 1209.000000)">
+                <g id="tech-stack" transform="translate(0.000000, 85.000000)">
+                    <g id="tech-vuejs" transform="translate(895.000000, 7.000000)">
+                        <polygon id="Path" fill="#41B883" points="51.9646634 3.20124505e-14 64.9558292 3.20124505e-14 32.4779146 55.7908467 0 2.84217094e-14 24.8456047 2.84217094e-14 32.4779146 12.9370079 39.947835 3.20124505e-14"></polygon>
+                        <polygon id="Path" fill="#41B883" points="0 3.20124505e-14 32.4779146 55.7908467 64.9558292 2.84217094e-14 51.9646634 2.84217094e-14 32.4779146 33.474508 12.8287763 3.20124505e-14"></polygon>
+                        <polygon id="Path" fill="#35495E" points="12.8287763 2.84217094e-14 32.4779146 33.6362206 51.9646634 2.84217094e-14 39.947835 2.84217094e-14 32.4779146 12.9370079 24.8456047 2.84217094e-14"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

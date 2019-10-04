@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="70px" viewBox="0 0 79 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>tech-sketch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polipixel-web" transform="translate(-892.000000, -1429.000000)" fill-rule="nonzero">
+            <g id="technologies" transform="translate(240.000000, 1209.000000)">
+                <g id="tech-stack" transform="translate(0.000000, 85.000000)">
+                    <g id="tech-sketch" transform="translate(652.764823, 135.000000)">
+                        <polygon id="Path" fill="#FDB300" points="16.8688837 2.30354169 38.6578585 0 60.4468332 2.30354169 77.3157167 24.9485278 38.6578585 69.9651984 0 24.9485278"></polygon>
+                        <g id="Group" transform="translate(0.000000, 24.948528)">
+                            <polygon id="Path" fill="#EA6C00" points="15.6583708 0 38.6578933 45.0166854 0 0"></polygon>
+                            <polygon id="Path" fill="#EA6C00" transform="translate(57.986735, 22.508343) scale(-1, 1) translate(-57.986735, -22.508343) " points="54.3161594 0 77.3156819 45.0166854 38.6577887 0"></polygon>
+                            <polygon id="Path" fill="#FDAD00" points="15.6583708 0 61.6574157 0 38.6578933 45.0166854"></polygon>
+                        </g>
+                        <g id="Group">
+                            <polygon id="Path" fill="#FDD231" points="38.6578933 0 16.8688202 2.30351124 15.6583708 24.9485112"></polygon>
+                            <polygon id="Path" fill="#FDD231" transform="translate(50.157536, 12.474256) scale(-1, 1) translate(-50.157536, -12.474256) " points="61.657297 0 39.8682239 2.30351124 38.6577745 24.9485112"></polygon>
+                            <polygon id="Path" fill="#FDAD00" transform="translate(68.881272, 13.626011) scale(-1, 1) translate(-68.881272, -13.626011) " points="60.4467634 24.9485112 77.3157802 2.30351124 76.1051342 24.9485112"></polygon>
+                            <polygon id="Path" fill="#FDAD00" points="0 24.9485112 16.8688202 2.30351124 15.6583708 24.9485112"></polygon>
+                            <polygon id="Path" fill="#FEEEB7" points="38.6578933 0 15.6583708 24.9485112 61.6574157 24.9485112"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

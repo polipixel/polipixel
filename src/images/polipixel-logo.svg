@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="20px" viewBox="0 0 188 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>polipixel-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polipixel-web" transform="translate(-240.000000, -40.000000)" fill-rule="nonzero">
+            <g id="header">
+                <g id="polipixel-logo" transform="translate(240.000000, 40.000000)">
+                    <path d="M20,10 L18,10 L18,12 L8,12 L8,20 L0,20 L0,0 L18,0 L18,2 L20,2 L20,10 Z M44,18 L42,18 L42,20 L26,20 L26,18 L24,18 L24,2 L26,2 L26,0 L42,0 L42,2 L44,2 L44,18 Z M68,20 L48,20 L48,0 L56,0 L56,16 L68,16 L68,20 Z M80,20 L72,20 L72,0 L80,0 L80,20 Z" id="Poli" fill="#F9F9F9"></path>
+                    <polygon id="P" fill="#EB2A2C" points="104 10 102 10 102 12 92 12 92 20 84 20 84 0 102 0 102 2 104 2"></polygon>
+                    <polygon id="I" fill="#ED6A46" points="116 20 108 20 108 0 116 0"></polygon>
+                    <polygon id="X" fill="#FDCF1A" points="140 20 132 20 132 12 128 12 128 20 120 20 120 12 122 12 122 8 120 8 120 0 128 0 128 8 132 8 132 0 140 0 140 8 138 8 138 12 140 12"></polygon>
+                    <polygon id="E" fill="#50B949" points="164 20 146 20 146 18 144 18 144 2 146 2 146 0 164 0 164 4 152 4 152 8 158 8 158 12 152 12 152 16 164 16"></polygon>
+                    <polygon id="L" fill="#01A6EF" points="188 20 168 20 168 0 176 0 176 16 188 16"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

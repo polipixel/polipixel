@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.001171875 0.000785854617 20 0.000785854617 20 19.9956778 0.001171875 19.9956778"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polipixel-web" transform="translate(-1030.000000, -40.000000)">
+            <g id="header">
+                <g id="social-icons" transform="translate(1030.000000, 40.000000)">
+                    <g id="icon-facebook">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M20,10.0589391 C20,4.50353635 15.5228516,0 10,0 C4.47714844,0 0,4.50353635 0,10.0589391 C0,15.0796464 3.65685547,19.2410609 8.4375,19.9956778 L8.4375,12.9666012 L5.8984375,12.9666012 L5.8984375,10.0589391 L8.4375,10.0589391 L8.4375,7.84282908 C8.4375,5.32180747 9.93042969,3.92927308 12.2146484,3.92927308 C13.3087305,3.92927308 14.453125,4.12573674 14.453125,4.12573674 L14.453125,6.60117878 L13.1921484,6.60117878 C11.9499023,6.60117878 11.5625,7.37656189 11.5625,8.17204322 L11.5625,10.0589391 L14.3359375,10.0589391 L13.8925781,12.9666012 L11.5625,12.9666012 L11.5625,19.9956778 C16.3431445,19.2410609 20,15.0796464 20,10.0589391" id="Fill-1" fill="#F9F9F9" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
