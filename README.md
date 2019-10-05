@@ -12,4 +12,4 @@ To compile locally, you have to run `jekyll serve --watch`, and visit [http://12
 
 Then, to have the **production version**, run `jekyll build`, and upload only the content of the `_site` folder. 🚀
 
-**Note:** You need to have [Ruby](https://www.ruby-lang.org/) installed to compile the project's code.
+**Note:** You need to have [Ruby](https://www.ruby-lang.org/) installed to compile the project's code. Just run `bundle` to get every gems needed to build the project.
